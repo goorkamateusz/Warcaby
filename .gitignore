@@ -1,0 +1,8 @@
+# lokalne
+**_local**
+*.exe
+/obj
+
+# dokumentacja
+/dox/*
+!/dox/Doxyfile
