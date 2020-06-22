@@ -8,12 +8,12 @@
 ## Spis treści
 
 - [Autor](#Autor)
-- [Zasady Gry](#Zasady\ gry)
-- [Uruchomienie](#Uruchomienie\ programu)
+- [Zasady](#Zasady)
+- [Uruchomienie](#Uruchomienie)
 - [Specyfikacja](#Specyfikacja)
 - [Dokumentacja](#Dokumentacja)
 
-## Uruchomienie programu
+## Uruchomienie
 - Kompilacja (windows)
 
     Poleceniem `make` z folderu aktualnego projektu. Polecenie wykorzystuje program [make](http://gnuwin32.sourceforge.net/packages/make.htm) i plik `Makefile`.
@@ -35,7 +35,7 @@
     | -m    | Bot gra zrównoważenie, poświęca pionki, tylko dla większego zysku. |
     | -d    | Bot gra bardzo ostrożnie, a zbicie jego damki jest prawnie niemożliwe. |
 
-## Zasady gry
+## Zasady
 
 1. Nakaz bicia - Gracz musi wykonać bicie, jeżeli ma taką możliwość;
 2. Bicie jest możliwe w każdym kierunku;
