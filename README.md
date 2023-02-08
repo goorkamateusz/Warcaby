@@ -2,8 +2,7 @@
 >  Graficzna gra w warcaby z botem, jako przeciwnikiem.
 
 ## Autor
->   **Górka Mateusz**\
->   maatiug@gmail.com
+>   **Górka Mateusz**
 
 ## Spis treści
 
